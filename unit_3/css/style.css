@@ -1,0 +1,20 @@
+h1,body {
+	color: #6D0060;
+	background: #F7FFFD;
+	text-align: center;
+	font-family: helvetica, arial;
+
+}
+h1 {
+	font-size: 40px;
+}
+
+ul {
+	text-align: left;
+}
+
+
+#slogan {
+	font-style: italic;
+	font-size: 20px;
+}
