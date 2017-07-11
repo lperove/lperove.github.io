@@ -2,11 +2,17 @@ h1,body {
 	color: #6D0060;
 	background: #F7FFFD;
 	text-align: center;
-	font-family: helvetica, arial;
+	font-family: 'Lato', helvetica;
+	line-height: 1.5em;
+	margin: 2em;
 
 }
 h1 {
+	font-family: 'Roboto Slab', georgia;
 	font-size: 40px;
+}
+body {
+	font-size: 14px;
 }
 
 ul {
