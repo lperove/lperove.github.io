@@ -3,9 +3,7 @@ h1,body {
 	background: #F7FFFD;
 	text-align: center;
 	font-family: 'Lato', helvetica;
-	line-height: 1.5em;
-	margin: 2em;
-
+	
 }
 h1 {
 	font-family: 'Roboto Slab', georgia;
@@ -13,6 +11,8 @@ h1 {
 }
 body {
 	font-size: 14px;
+	line-height: 1em;
+	margin: 2em;
 }
 
 ul {
@@ -22,6 +22,6 @@ ul {
 
 
 #slogan {
-	font-style: italic;
+	font-family: 'Roboto Slab', georgia;
 	font-size: 20px;
 }
