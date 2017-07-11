@@ -2,7 +2,7 @@ h1,body {
 	color: #6D0060;
 	background: #F7FFFD;
 	text-align: center;
-	font-family: 'Lato', helvetica;
+	
 	
 }
 h1 {
@@ -10,9 +10,10 @@ h1 {
 	font-size: 40px;
 }
 body {
+	font-family: 'Lato', helvetica;
 	font-size: 14px;
 	line-height: 1em;
-	margin: 2em;
+	margin: 2.5em;
 }
 
 ul {
