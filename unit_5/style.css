@@ -1,0 +1,56 @@
+h1,body {
+	color: #6D0060;
+	background-color: #FFED74;
+	text-align: center;
+	border: 1px black solid;
+	padding: 20px;
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black, solid;
+	padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
+
+
+}
+	
+	
+}
+h1 {
+	font-family: 'Roboto Slab', georgia;
+	font-size: 40px;
+}
+body {
+	font-family: 'Lato', helvetica;
+	font-size: 16px;
+	line-height: 1.5em;
+	margin: 5em;
+}
+
+ul {
+	text-align: center;
+	list-style-type: none;
+}
+
+
+#slogan {
+	font-family: 'Roboto Slab', georgia;
+	font-size: 20px;
+}
