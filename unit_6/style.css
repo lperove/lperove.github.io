@@ -4,6 +4,7 @@ h1,body {
 	text-align: center;
 	border: 1px black solid;
 	padding: 20px;
+}
 
 nav {
 	background-color: #E8C66A;
@@ -27,12 +28,8 @@ footer {
 	background-color: #FF957E;
 	border: 1px black solid;
 	padding: 20px;
-
-
 }
-	
-	
-}
+
 h1 {
 	font-family: 'Roboto Slab', georgia;
 	font-size: 40px;
